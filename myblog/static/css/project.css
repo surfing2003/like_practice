@@ -1,0 +1,12 @@
+h1 {
+    color: orange;
+}
+
+a{
+    text-decoration:none;
+}
+
+i.far, i.fas{
+    font-size: 25px;
+    color: red;
+}
